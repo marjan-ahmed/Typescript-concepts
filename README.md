@@ -1,5 +1,4 @@
-# Clear you Core Concepts of TypeScript 
-with
+# Clear Your Core Concepts of TypeScript 
 
 - Union Types
 - Type Literals
