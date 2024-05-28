@@ -11,7 +11,7 @@ console.log("Enum with const");
 console.log(colourNum,"\n");
 
 // Only typescript allows you to include more properties on enum (no const) 
-console.log("Simple Enum");
+console.log("Simple Enum with object properties");
 
 enum Color {
   Red, 
