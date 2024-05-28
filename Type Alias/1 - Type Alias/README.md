@@ -4,6 +4,7 @@ In TypeScript, you can create type aliases using the type keyword. Type aliases 
 <h3>Here's a basic example of using a type alias in TypeScript:</h3>
 
 ```typescript
+
 // Define a type alias
 type Point = {
     x: number;
