@@ -1,10 +1,7 @@
 # Clear Your Core Concepts of TypeScript 
-
-- Union Types
-- Type Literals
 - Object
 - Nested Objects
-- Type Aliases
+- Type Alias
 - Structural Typing (interface)
 - Hoisting
 - Functions
