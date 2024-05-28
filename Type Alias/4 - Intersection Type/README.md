@@ -1,6 +1,6 @@
 # Intersection Type
 
-like in Math, we study the intersection in chapter sets. The first set join aur concatinates or join the second set. and the result set is a intersection of the two sets,
+like in Math, we study the intersection in chapter sets. The first set join or concatinates the second set, and the result set is the intersection of the two sets,
 
 <h3>For example:</h3>
 
