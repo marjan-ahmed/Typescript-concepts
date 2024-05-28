@@ -1,0 +1,12 @@
+{
+  "name": "hoisting",
+  "version": "1.0.0",
+  "description": "Hoisting is a behavior in JavaScript and TypeScript where variable and function declarations are moved to the top of their containing scope during the compilation phase, regardless of where the declarations occur within the code. \r     Hoisting applies differently to variable declarations made with `var`, `let`, and `const`, as well as `function` \r declarations and function expressions. With var declarations, the variable is initialized with undefined during `hoisting`, while `let` and `const` declarations remain uninitialized until their actual declaration in the code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
