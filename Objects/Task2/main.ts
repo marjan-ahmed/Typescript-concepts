@@ -12,7 +12,7 @@ const person1 = {
         console.log(this.name);
         console.log(this.age);
         console.log(this.address.street, this.address.city, this.address.zipCode);
-        console.log("-------------------|||------------------|||------------------")
+        console.log("-------------------|||-------------------|||---------------");
     }
 };
 
