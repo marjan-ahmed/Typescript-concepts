@@ -1,8 +1,7 @@
 # Clear Your Core Concepts of TypeScript 
 - Object
-- Nested Objects
 - Type Alias
-- Structural Typing (interface)
+- TypeScript interface
 - Hoisting
 - Functions
 - Narrowing
