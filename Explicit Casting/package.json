@@ -1,0 +1,12 @@
+{
+  "name": "explicit-casting",
+  "version": "1.0.0",
+  "description": "In TypeScript, explicit casting (also known as type assertion) is a way to tell the compiler to treat a value as a specific type. There are two syntaxes for explicit casting: the \"as\" syntax and the angle-bracket syntax. Here are some examples:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
