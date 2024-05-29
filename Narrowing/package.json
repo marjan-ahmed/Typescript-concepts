@@ -1,0 +1,12 @@
+{
+  "name": "narrowing",
+  "version": "1.0.0",
+  "description": "Narrowing in TypeScript is the process of refining the type of a variable to a more specific type within a certain block of code, based on checks or conditions. This allows TypeScript to understand and enforce more specific types, leading to safer and more predictable code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
