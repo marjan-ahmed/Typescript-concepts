@@ -1,6 +1,6 @@
 # Multi-level inheritance
-![Sample img 1](image-1.png)
-![Sample img 2](image-2.png)
+![Sample img 1](sample-images/image-1.png)
+![Sample img 2](sample-images/image-2.png)
 
 **Multi-level inheritance** is a concept in object-oriented programming (OOP) where a class inherits properties and behaviors from another class, which itself is derived from another class. This forms a hierarchy of classes, where each derived class (subclass) inherits characteristics from its immediate superclass and all the way up the chain to the base class (ultimate superclass).
 
