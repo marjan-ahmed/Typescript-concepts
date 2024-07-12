@@ -8,13 +8,6 @@ Some of the benefits of Object Oriented Programming are as follows:
 - Project decoupling (Separate project into groups)
 
 
-# Four Pillars Of OOP
-
-1. Inheritence
-2. Encapsulation
-3. Abstraction
-4. Polymorphism
-
 # CLASS:
 A class is a blue print of an active object. that will work or do some action. A class can be an intity. and the intity is something that have some properties and working.
 for example: chair, fan, light, mic, speaker, door, animals, plants, human, organ system etc.
