@@ -19,6 +19,7 @@ class Fruit {
 
 # this
 A ***this*** keyword used inside the constructor to point out the properties. Whenever, calling constructor. The argument inside the constructor will be = (equal) to the properties of a the class.
+    "this keyword is used when we want to point or declare a variable but not now later it will be use. Otherwise we can use var,let and const. But we don't want memory to store the data right now, because we have to call it later in his active position."
 
 ```typescript
 class Fruit {
