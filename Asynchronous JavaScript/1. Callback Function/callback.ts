@@ -6,10 +6,10 @@ function parentFunc(func: () => void): void {
     func();
 }
 
-// Calling the parent function with a callback function
+// Calling the parent function with a callback function.
 function childFunc() {
     console.log("I am a child function");
 }
 
-parentFunc(childFunc); 
+parentFunc(childFunc)
 
